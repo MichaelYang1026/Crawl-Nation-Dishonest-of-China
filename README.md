@@ -14,4 +14,4 @@ This program is used to store dishonest list in Mysql. Before you run it, you sh
 In this program, only the logs that never appear in Mysql tables will be inserted.
 When you run this program, you'd better have a larger computer display. Otherwise, the simulator of selenium may not reach the screen border, which will cause an error of this program. To prevent this potential error, you can get a large computer display like 27 inches or optimize the codes.
 
-该程序用于将失信人名单储存在Mysql数据库中。在运行程序之前，你需要完成Mysql环境配置并且创建一个数据库。在本程序中，只有从未在数据库表格中出现的记录会被插入数据库中。在运行此程序时，最好电脑配置一个大的显示屏。否则，有可能会由于屏幕过小导致模拟器无法移动到指定位置，从而造成运行错误。为了防范此问题，你可以配置一个27英寸以上的显示屏或者优化代码。
+该程序用于将失信人名单储存在Mysql数据库中。在运行程序之前，你需要完成Mysql环境配置并且创建一个数据库。在本程序中，只有从未在数据库表格中出现的记录会被插入数据库中。在运行此程序时，最好电脑配置一个大的显示屏。否则，有可能会由于屏幕过小导致模拟器无法移动到指定位置，从而造成运行错误。为了防范此问题，你可以配置一个27英寸以上的显示屏或者在运行模拟器时缩小浏览器的大小。
